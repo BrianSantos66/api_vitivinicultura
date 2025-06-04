@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+requests
+PyJWT
+python-multipart
+python-jose[cryptography]
